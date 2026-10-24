@@ -1,0 +1,6 @@
+{
+  "name": "Vedantam - South Indian Restaurant",
+  "description": "Bright and authentic South Indian dining in Vaishali, Ghaziabad. Famous for Thatte Idli, Benne Dosa, and Filter Coffee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
